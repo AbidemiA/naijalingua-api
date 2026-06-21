@@ -35,6 +35,6 @@ Deployment: Hugging Face Spaces (CI/CD via GitHub Actions)
 
 📋 API Documentation
 For full technical documentation and interactive testing, visit the API Docs:
-https://abidemiadetula-yoruba-translation-api.hf.space/docs
+https://abidemiadetula-naijalingua-api.hf.space/docs
 
 Built to power localized Nigerian digital infrastructure.
